@@ -5,5 +5,5 @@
 </center>
 
 <p align="center">
-	A Python developer, Linux enthusiast and a hobbyist game developer from India.
+	A back-end developer, Linux enthusiast and a hobbyist game developer from India.
 </p>
