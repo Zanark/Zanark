@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div style="margin:auto; width:50%; padding:10px;">
-<img src="./assets/BrickWall.png">
+<img src="https://github.com/Zanark/Zanark/blob/master/assets/BrickWall.png">
 </div>
 
 <!--
