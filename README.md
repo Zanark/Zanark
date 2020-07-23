@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-<div style="margin:auto; width:50%; padding:10px;">
+<!-- <div style="margin:auto; width:50%; padding:10px;"> -->
+<center>
 <img src="https://github.com/Zanark/Zanark/blob/master/assets/BrickWall.png">
-</div>
+</center>
 
 <!--
 **Zanark/Zanark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
