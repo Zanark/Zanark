@@ -1,6 +1,6 @@
 
 <!-- README Banner -->
-<img src="https://github.com/Zanark/Zanark/blob/master/assets/READMEBanngerAnimated.gif" alt="GitHub Banner Wall Animated gif">
+<img src="https://github.com/Zanark/Zanark/blob/master/assets/READMEBanngerAnimated(small).gif" alt="GitHub Banner Wall Animated gif">
 
 <!-- short description -->
 <p align="center">
