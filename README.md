@@ -1,7 +1,7 @@
 
 <!-- README Banner -->
 <!-- <div style="margin:auto; width:50%; padding:10px;"> -->
-<img src="https://github.com/Zanark/Zanark/blob/master/assets/BrickWall.png">
+<img src="https://github.com/Zanark/Zanark/blob/master/assets/BrickWall.png" alt="GitHub Banner Wall" width="320">
 
 <!-- short description -->
 <p align="center">
