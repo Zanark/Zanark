@@ -2,6 +2,8 @@
 <!-- README Banner -->
 <!-- <div style="margin:auto; width:50%; padding:10px;"> -->
 <img src="https://github.com/Zanark/Zanark/blob/master/assets/BrickWall.png" alt="GitHub Banner Wall">
+<br>
+<img src="https://github.com/Zanark/Zanark/blob/master/assets/READMEBanngerAnimated.gif" alt="GitHub Banner Wall Animated gif">
 
 <!-- short description -->
 <p align="center">
